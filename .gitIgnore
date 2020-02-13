@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+*.class
+.jar
+/test/
+=======
+*.class
+>>>>>>> bug1
