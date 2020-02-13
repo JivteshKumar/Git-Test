@@ -6,3 +6,4 @@ git bug 1
 git bug 2
 git master
 
+change : to test rebase and change is from team mate
