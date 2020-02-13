@@ -1,7 +1,3 @@
-qwdstyd
-hjfvvyil
-uklgvibyui;
-k;gjbl;k
-
-change to test push on remote repo from local
-Change to file 2 from team mate for testing pull
+1. change to test push on remote repo from local
+2. change to file 2 from team mate for testing pull
+3. change by teammate to test rebase on remote repository
